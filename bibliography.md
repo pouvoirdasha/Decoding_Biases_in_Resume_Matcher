@@ -1,3 +1,13 @@
+---
+layout: page
+title: References
+tags:
+  - AI
+  - Biases
+  - references
+
+---
+
 # Bibliography
 
 - Abramson, P. R., & Inglehart, R. (1995). Value change in global perspective. Ann Arbor, Mich: University of Michigan Press.
