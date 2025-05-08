@@ -1,3 +1,9 @@
+---
+layout: page
+title: Introduction
+tags: [AI Biases, literature]
+
+---
 # **Literature Review**
 
 ## *Bias in Hiring*
