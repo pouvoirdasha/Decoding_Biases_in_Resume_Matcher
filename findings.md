@@ -79,7 +79,7 @@ To evaluate the sensitivity to ideology, we can look at whether “clivant” vo
 
 Upon looking at the mean scores across job sectors, there seems to be no significant difference between ideologically charged experiences and other experiences, no matter the job sector.
 
-![ideo1](assets/img  /mean_scores_clivant_vs_not_clivant_per_jobtype.png)
+![ideo1](assets/img/mean_scores_clivant_vs_not_clivant_per_jobtype.png)
 
 Classifying volunteering experiences as neutral (0), political (1) or religious (2), presents no visible difference between ideologies nor between job sectors.
 
