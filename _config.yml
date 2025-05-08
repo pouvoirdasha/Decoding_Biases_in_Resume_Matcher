@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Decoding Resume Matcher Biases
+title: Decoding Biases in Resume Matcher
 # Your name to show in the footer
 author: Martyna Chmura, Dariia Haryfullina, Léo le Douarec, Ninon Manighetti
 
@@ -115,7 +115,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
