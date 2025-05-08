@@ -17,6 +17,9 @@ By simulating application scenarios with controlled variations in resume content
 
 This study is structured as follows: the literature review and theoretical framework provide a theoretical foundation, discussing the existing documentation of biases in hiring processes and algorithms, as well as key concepts like algorithmic fairness and bias formation. The methodology then outlines the performed experimental correspondence testing design. The results section subsequently presents evidence of significant gender and ethnicity biases but limited ideological bias with important sectorial variations. Finally, the discussion and conclusion contextualize these findings and highlight the societal and research implications, emphasizing the need for ongoing scrutiny of AI hiring tools. 
 
+Go to [Next Page](index.md)
+Back to [Previous Page](framework.md)
+
 
 <section style="display: flex; justify-content: center; margin: 40px 0;">
     <div style="margin-top: 20px; text-align: center;">
