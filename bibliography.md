@@ -8,7 +8,6 @@ tags:
 
 ---
 
-# Bibliography
 
 - Abramson, P. R., & Inglehart, R. (1995). Value change in global perspective. Ann Arbor, Mich: University of Michigan Press.
 - Amin, K. S., Forman, H. P., & Davis, M. A. (2024). Even with ChatGPT, race matters. Clinical Imaging, 109, 110113.
