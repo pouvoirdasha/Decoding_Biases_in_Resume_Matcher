@@ -33,7 +33,7 @@ Furthermore, certain professional sectors, such as education or governmental ins
   
   
 
-## *Sectorial and intersectional variations*
+## *Sectorial and Intersectional Variations*
 
 Sectoral differences in hiring practices influence how bias manifests in algorithmic models. For instance, the language valued in a resume for a tech role may diverge from that for a healthcare position. Few studies have conducted sector-specific audits, but those that do (e.g. Kim et al., 2020; Veldanda et al., 2023) reveal that certain sectors tolerate greater algorithmic opacity, are more prone to embedding proxies for identity attributes and subsequently exhibit greater bias. 
 
