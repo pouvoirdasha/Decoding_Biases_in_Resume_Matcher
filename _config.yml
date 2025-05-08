@@ -23,7 +23,7 @@ navbar-links:
   Project:
     - Literature review: "literature_review"
     - Framework: "framework"
-    - Our methodology: 'methodology'
+    - Methodology: 'methodology'
     - Findings : 'findings'
     - Conclusion: 'conclusion'
   References : 'references'

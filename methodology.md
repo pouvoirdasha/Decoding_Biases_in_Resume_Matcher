@@ -59,7 +59,7 @@ To improve internal validity of this study and avoid any potential confounding v
 
 A total of 182 039 synthetic resumes were generated using a controlled and reproducible pipeline. Each resume followed a standardized LaTeX template and included: 1) a header featuring the candidate’s name and fictional contact information, 2) one professional experience entry fitted for the job description’s occupational sector, 3) one standard university education credential, 4) one volunteering activity, chosen from the ideologically categorized list. Moreover, the experience on CVs was distributed across three sectors. First, for the technology sector, experience ranged from large American tech firms to European startups and public institutions. Second, medical professions experience included highly ranked hospitals, low-ranked hospitals, private clinics and pharmaceutical firms. Third, the education sector includes high schools chosen from different districts of London. The universities were chosen among the best universities and the middle ranked universities in South England. 
 
-[[IMAGE HERE]]
+[["assets/img/example_resume.png"]]
 
 The descriptions for the job and volunteering experiences were generated from the company name, using the LLM mistral-small-3 ran locally on a 16Gb 4070Ti Super. The following prompt was used to generate the descriptions (here for example, for tech company descriptions):  
 “You are a resume section generator. I will give you a characteristic. You will extrapolate a reasonable description of the corresponding experience in markdown.  
@@ -83,11 +83,11 @@ To limit the number of resumes analyzed, we have selected 6 job descriptions, ea
 
 Here is how resumes are being generated in each of these experiments:
 
-  [[IMAGE HERE]]
+  [["assets/img/methodology_logigram.png"]]
 
 In each of these experiments, the variables that are fixed are either chosen randomly from adapted (controversial) / non-adapted (non-controversial) experiences, or just completely randomly, following this table:
 
-[[IMAGE HERE]] 
+[["assets/img/experiment_table.png"]] 
 
 When the influence of the ‘name’ variable was scored, the experiment was divided in two parts. For each job type (Doctor, IT Officer etc.), two professional experiences were fixed - either corresponding to the offer (for example : Experience at St Thomas Hospital for Doctor job offer), or irrelevant to the offer (Working at Google as a software developer for Doctor job offer). Complementary volunteering experience was chosen randomly. Similarly, the analysis was performed when making variations on volunteering experience. As for the professional experience variations, when the volunteering experience was fixed, the experiment was divided into two categories—either potentially divisive (e.g., politically or socially sensitive) or neutral. First names were randomly assigned in all cases. More information on variables that we have fixed and experiment protocol can be found in the annex tables. 
 
