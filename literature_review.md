@@ -40,3 +40,6 @@ Sectoral differences in hiring practices influence how bias manifests in algorit
   
 
 Moreover, current literature presents a shortage of intersectional analyses. Most studies isolate one demographic variable despite the fact that real-world identities intersect in complex ways. For instance, a Black woman who signals progressive political views, through her work or volunteering experience, may be doubly disadvantaged by algorithmic filters than white, male, apolitical candidates. The theoretical implications of intersectionality, as articulated by Crenshaw (1991), have yet to be thoroughly incorporated into algorithmic auditing practices.
+
+Go to [Next Page](methodology.md)
+Back to [Previous Page](Introduction.md)
