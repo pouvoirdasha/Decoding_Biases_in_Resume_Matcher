@@ -1,3 +1,10 @@
+---
+layout: page
+title: Introduction
+tags: [AI Biases, Introduction]
+
+---
+
 In 2018, Amazon abandoned an experimental Artificial Intelligence (AI) hiring tool after discovering it systematically showed bias against women by downgrading CVs containing the word “women’s” and penalized graduates from all-women’s universities (Dastin, 2018). Trained on historical hiring data of the company, the system had inadvertently learned to prefer masculine career paths and language, thus embedding past discrimination into its scoring model. This controversy became illustrative of a larger concern: as AI becomes integrated in HR and management practices, it risks reproducing or amplifying existing inequalities under the guise of objectivity (Raghavan et al., 2020).  
 
 Algorithmic tools can be employed across every stage of the hiring process, from sourcing candidates, screening, to interviewing and even final selection (Raghavan et al., 2020, p. 470). Resume matching algorithms generally operate at the screening stage, determining which candidates from the sourced pool are suitable to proceed to human review. These systems typically use natural language processing and machine learning (Sharma et al., 2021) to compare candidates CVs against job descriptions, screening applicants based on experience, inferred relevance and compatibility. Despite being presented as neutral evaluators that save time and costs (Kuncel, 2014), algorithms are not impartial: they reflect the biases embedded in their training data and design (Chander, 2016;‌ Köchling & Wehner, 2020). Concerns have emerged around how such automated systems approach resumes that reflect variations in gender, ethnicity or ideological expression, attributes that are often implicitly embedded in resume content through names, universities or extracurriculars (Bertrand & Mullainathan, 2004; Rivera, 2011).  
