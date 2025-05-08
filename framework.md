@@ -85,7 +85,7 @@ In the case of this study, biases are measured based on the compatibility score.
 
 We will be basing the analysis of the result on the definition of fairness as the fact of *treating similar individuals similarly* (Dwork et al., 2012), that is for instance, people with the same competences should obtain the same score, independently of their ethnicity, gender or ideological expression. Based on Rawls' idea that the algorithm should play the role of the veil of ignorance, we will follow the methodology explained below to answer our question.
 
-## *Hypothesis*
+## *Hypotheses*
 
 Taking into account the fairness framework and existing literature on the topic, this study tests **the following hypotheses**: 
 
