@@ -16,3 +16,27 @@ Therefore, this study aims to decode the implicit biases of one representative h
 By simulating application scenarios with controlled variations in resume content, this research contributes to the growing field of empirical AI ethics. It offers both theoretical insights into how bias manifests in automated hiring processes, and practical implications for those designing and regulating AI tools used in HR. As algorithmic decision-making increasingly dictates access to job and economic opportunities, understanding the mechanics of bias is essential to shaping just and accountable hiring practices.
 
 This study is structured as follows: the literature review and theoretical framework provide a theoretical foundation, discussing the existing documentation of biases in hiring processes and algorithms, as well as key concepts like algorithmic fairness and bias formation. The methodology then outlines the performed experimental correspondence testing design. The results section subsequently presents evidence of significant gender and ethnicity biases but limited ideological bias with important sectorial variations. Finally, the discussion and conclusion contextualize these findings and highlight the societal and research implications, emphasizing the need for ongoing scrutiny of AI hiring tools. 
+
+
+<section style="display: flex; justify-content: center; margin: 40px 0;">
+    <div style="margin-top: 20px; text-align: center;">
+      <a href="https://pouvoirdasha.github.io/Decoding_Biases_in_Resume_Matcher/literature_review/" 
+         style="
+           display: inline-block;
+           padding: 12px 24px;
+           background-color: #4a90e2;
+           color: white;
+           text-decoration: none;
+           border-radius: 25px;
+           font-size: 16px;
+           font-weight: bold;
+           transition: background-color 0.3s ease;
+         "
+         onmouseover="this.style.backgroundColor='#357ABD';"
+         onmouseout="this.style.backgroundColor='#4a90e2';">
+        Read the rest of the paper →
+      </a>
+    </div>
+  </div>
+</section>
+
