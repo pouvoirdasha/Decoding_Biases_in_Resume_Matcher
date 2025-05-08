@@ -21,11 +21,11 @@ author: Martyna Chmura, Dariia Haryfullina, Léo le Douarec, Ninon Manighetti
 navbar-links:
   Introduction: "Introduction"
   Project:
-    - Literature review: "https://beautifuljekyll.com"
-    - Theoretical framework: "https://beautifuljekyll.com"
-    - Our methodology:
-    - Findings and analysis : 
-    - Conclusion and Discussion:
+    - Literature review: "literature_review"
+    - Theoretical framework: "framework"
+    - Our methodology: 'methodology'
+    - Findings : 
+    - Conclusion:
   References : 
   Annex :
   Link to our github repository: "https://github.com/Lyreck/resume_biases-analysis"
