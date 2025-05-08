@@ -24,7 +24,7 @@ This study is structured as follows: the literature review and theoretical frame
          style="
            display: inline-block;
            padding: 12px 24px;
-           background-color: #4a90e2;
+           background-color: #2b2a2a;
            color: white;
            text-decoration: none;
            border-radius: 25px;
@@ -32,11 +32,10 @@ This study is structured as follows: the literature review and theoretical frame
            font-weight: bold;
            transition: background-color 0.3s ease;
          "
-         onmouseover="this.style.backgroundColor='#357ABD';"
-         onmouseout="this.style.backgroundColor='#4a90e2';">
+         onmouseover="this.style.backgroundColor='#404040';"
+         onmouseout="this.style.backgroundColor='#2b2a2a';">
         Read the rest of the paper →
       </a>
     </div>
-  </div>
 </section>
 
