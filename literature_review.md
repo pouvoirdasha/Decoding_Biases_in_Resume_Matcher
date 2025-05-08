@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Introduction
+title: Literature review
 tags: [AI Biases, literature]
 
 ---
-# **Literature Review**
+# **What did we learn from the literature ?**
 
 ## *Bias in Hiring*
 
