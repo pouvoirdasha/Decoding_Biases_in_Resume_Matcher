@@ -20,15 +20,15 @@ author: Martyna Chmura, Dariia Haryfullina, Léo le Douarec, Ninon Manighetti
 
 navbar-links:
   Introduction: "Introduction"
-  Project:
+  Read our paper:
     - Literature review: "literature_review"
     - Framework: "framework"
     - Methodology: 'methodology'
     - Findings : 'findings'
     - Conclusion: 'conclusion'
-  References : 'bibliography'
-  Annex :
-  Link to our github repository: "https://github.com/Lyreck/resume_biases-analysis"
+    - References : 'bibliography'
+    - Annex :
+  Project github: "https://github.com/Lyreck/resume_biases-analysis"
 
 ################
 # --- Logo --- #
