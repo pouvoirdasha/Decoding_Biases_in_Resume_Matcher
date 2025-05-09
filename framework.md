@@ -96,3 +96,6 @@ Taking into account the fairness framework and existing literature on the topic,
 - **H3.** The resumes featuring religious or political engagements will receive lower compatibility scores. The effect will also be more pronounced in different professional sectors.
     
 - **H4.** Certain professional sectors exhibit greater sensitivity to gender, ethnicity and ideological indicators in resumes.
+
+Back to [Previous Page](literature_review.md)
+Go to [Next Page](methodology.md)
