@@ -49,7 +49,7 @@ Indeed, the statistics composed by The Migration Observatory of the University o
 ![plot migt](assets/img/migrant_workers.jpg)
 [Reference website](https://migrationobservatory.ox.ac.uk/resources/briefings/migrants-in-the-uk-labour-market-an-overview/)
 
-### ## *Ideological expression*
+##  *Ideological expression*
 
 **Hypothesis** :  The resumes featuring religious or political engagements will receive lower compatibility scores. The effect will also be more pronounced in different professional sectors.
 
