@@ -87,3 +87,6 @@ Classifying volunteering experiences as neutral (0), political (1) or religious 
 
 
 The same observations apply to the comparison of k-means visualizations between job sectors. These observations are in line with our statistical tests: an overall ANOVA on ideology shows that we cannot reject the hypothesis that different ideologies are scored significantly differently ($p-value = 0.832$).
+
+Back to [Previous Page](methodology.md)
+Go to [Next Page](conclusion.md)
