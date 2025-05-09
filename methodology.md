@@ -96,3 +96,6 @@ When the influence of the ‘name’ variable was scored, the experiment was div
 All scoring outputs were stored in a structured database, linking each resume-job pair with its identity markers and match score. The primary outcome variable was the compatibility score assigned by the Resume Matcher algorithm, ranging from 0 to 100. 
 
 The analysis of these results was then conducted in two phases. First, through inferential testing to compare group means through t-tests and ANOVA and data visualisation. Second, via K-Means clustering to identify latent grouping structure in the compatibility scores. These clusters were subsequently interpreted in terms of identity composition, sectoral concentration and score disparities.
+
+Back to [Previous Page](framework.md)
+Go to [Next Page](findings.md)
