@@ -20,7 +20,7 @@ These findings counter much of the existing literature, which has generally docu
 
 Indeed, the analysis of gender bias across different job types reveals complex and context-dependent results. Statistically significant gender bias was present for Administrative Assistant (t=-2.699, p=0.008), Nurse (t=-5.257, p=0.000) and Teacher (t=-4.520, p=0.000) roles, where resumes with female coded names consistently received higher average scores that those with male-coded names.
 
-![mean_score_gender_job](assets/mg/mean_scores_gender_per_jobtype.png)
+![mean_score_gender_job](assets/img/mean_scores_gender_per_jobtype.png)
 
 These findings align with broader cultural associations of these professions as traditionally female-dominated, potentially reinforcing existing stereotypes through algorithmic design. Contrastingly, no significant gender bias was observed for roles of Doctor (t=0.364, p=0.717), IT Officer (t=0.747, p=0.464) and Software Engineer (t=0.130, p=0.897), suggesting that those professions either exhibit more neutral scoring patterns or that the algorithm tested lack that traditional male bias reported in prior studies. 
 
